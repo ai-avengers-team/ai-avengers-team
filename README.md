@@ -21,8 +21,10 @@
 
 - ⚡ Fun fact **We think we can steer our titantic of an AI challenge to the Judges in 7 days.**
 
-<h3 align="left">Connect with us: </h3>
-<p align="left"> ai-avengers-team@gmail.com </p>
+---
+
+<h3 align="center">Connect with us: </h3>
+<p align="center"> ai-avengers-team@gmail.com </p>
 
 ---
 
