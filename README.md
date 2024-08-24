@@ -11,7 +11,7 @@
 
 - 🤝 We're looking for help with **Rebuild Ireland (National AI Challenge)**
 
-- 👨‍💻 All of our projects are available at [https://www.stackportfol.io/](https://www.stackportfol.io/)
+- 👨‍💻 All of our projects are available at [https://www.stackportfol.io/](https://www.stackportfol.io/ "Made by @stephendawsondev, https://github.com/stephendawsondev") <sup>*</sup>
 
 - 📝 Some of us irregularly write articles on [https://www.codu.co/](https://www.codu.co/)
 
@@ -20,6 +20,8 @@
 - 📫 How to reach us **ai-avengers-team@gmail.com**
 
 - ⚡ Fun fact **We think we can steer our titantic of an AI challenge to the Judges in 7 days.**
+
+<sup>*: Made by [@stephendawsondev, https://github.com/stephendawsondev](https://github.com/stephendawsondev) </sup>
 
 ---
 
