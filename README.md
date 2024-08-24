@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **We think we can steer our titantic of an AI challenge to the Judges in 7 days.**
 
-<sup style="color:grey">*: Made by [@stephendawsondev](https://github.com/stephendawsondev) </sup>
+<sup align="right" style="color:grey">*: Made by [@stephendawsondev](https://github.com/stephendawsondev) </sup>
 
 ---
 
